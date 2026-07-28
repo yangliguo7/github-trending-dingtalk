@@ -1,0 +1,22 @@
+{
+  "name": "github-trending-dingtalk",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test",
+    "lint": "find src test -type f -name '*.js' -exec node --check {} \\;",
+    "collect:daily": "node src/main.js collect-daily",
+    "publish:auto": "node src/main.js publish-auto",
+    "dry-run:daily": "node src/main.js dry-run daily",
+    "dry-run:weekly": "node src/main.js dry-run weekly"
+  },
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "undici": "^7.16.0",
+    "zod": "^4.1.12"
+  }
+}
