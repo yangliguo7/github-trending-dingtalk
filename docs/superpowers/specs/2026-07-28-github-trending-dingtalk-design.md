@@ -2,7 +2,7 @@
 
 ## Status
 
-- Status: Approved conversational design, pending written-spec review
+- Status: Approved
 - Date: 2026-07-28
 - Scope: Standalone zero-cost GitHub Actions project
 
