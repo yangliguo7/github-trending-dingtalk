@@ -1,4 +1,762 @@
 {
   "version": 1,
-  "entries": {}
+  "entries": {
+    "ayghri/i-have-adhd|159998424bd9342d2c529e8d7862bab88a523d60|1": {
+      "repo": "ayghri/i-have-adhd",
+      "readmeSha": "159998424bd9342d2c529e8d7862bab88a523d60",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.006Z",
+      "source": "fallback",
+      "result": {
+        "repo": "ayghri/i-have-adhd",
+        "summary": "项目简介：A skill for your coding agent to stop it from burying t",
+        "purpose": "根据仓库公开描述，该项目主要围绕：A skill for your coding agent to stop it from burying the answer. ADHD-friendly out",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "Python"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md"
+        ]
+      }
+    },
+    "koala73/worldmonitor|285fbbf1b3093ff0074c74b84698e224215f3ce5|1": {
+      "repo": "koala73/worldmonitor",
+      "readmeSha": "285fbbf1b3093ff0074c74b84698e224215f3ce5",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.006Z",
+      "source": "fallback",
+      "result": {
+        "repo": "koala73/worldmonitor",
+        "summary": "项目简介：Real-time global intelligence dashboard. AI-powered new",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical ",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "TypeScript",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "package.json"
+        ]
+      }
+    },
+    "bojieli/ai-agent-book|eae80209cbf0f76d81b356ebdf674f4e9ed99a72|1": {
+      "repo": "bojieli/ai-agent-book",
+      "readmeSha": "eae80209cbf0f76d81b356ebdf674f4e9ed99a72",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.006Z",
+      "source": "fallback",
+      "result": {
+        "repo": "bojieli/ai-agent-book",
+        "summary": "项目简介：《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配",
+        "purpose": "根据仓库公开描述，该项目主要围绕：《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "Python"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md"
+        ]
+      }
+    },
+    "oblien/openship|6d08c1018279b37ec13ff47c71aafb67026c3f8a|1": {
+      "repo": "oblien/openship",
+      "readmeSha": "6d08c1018279b37ec13ff47c71aafb67026c3f8a",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.006Z",
+      "source": "fallback",
+      "result": {
+        "repo": "oblien/openship",
+        "summary": "项目简介：Self-hosted deployment platform",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Self-hosted deployment platform",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "TypeScript",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "package.json"
+        ]
+      }
+    },
+    "agegr/pi-web|f9175d77654399d7a3bb80934c519caf47d019cb|1": {
+      "repo": "agegr/pi-web",
+      "readmeSha": "f9175d77654399d7a3bb80934c519caf47d019cb",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.006Z",
+      "source": "fallback",
+      "result": {
+        "repo": "agegr/pi-web",
+        "summary": "项目简介：Web UI for the pi coding agent",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Web UI for the pi coding agent",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "TypeScript",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "package.json"
+        ]
+      }
+    },
+    "tirth8205/code-review-graph|94fe725fc20930c1a31a4667dcb764806013eb02|1": {
+      "repo": "tirth8205/code-review-graph",
+      "readmeSha": "94fe725fc20930c1a31a4667dcb764806013eb02",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.006Z",
+      "source": "fallback",
+      "result": {
+        "repo": "tirth8205/code-review-graph",
+        "summary": "项目简介：Local-first code intelligence graph for MCP and CLI. Bu",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Local-first code intelligence graph for MCP and CLI. Builds a persistent map of you",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "Python"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "pyproject.toml"
+        ]
+      }
+    },
+    "diegosouzapw/OmniRoute|00394b5fc0671dcf8ae168e86071cfb268438c33|1": {
+      "repo": "diegosouzapw/OmniRoute",
+      "readmeSha": "00394b5fc0671dcf8ae168e86071cfb268438c33",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.006Z",
+      "source": "fallback",
+      "result": {
+        "repo": "diegosouzapw/OmniRoute",
+        "summary": "项目简介：Never stop coding. Free MIT AI gateway: one endpoint, 2",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 50",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "TypeScript",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "package.json"
+        ]
+      }
+    },
+    "1jehuang/jcode|9ddf9c064a8d4181a89913219b2396558ab9ed37|1": {
+      "repo": "1jehuang/jcode",
+      "readmeSha": "9ddf9c064a8d4181a89913219b2396558ab9ed37",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.006Z",
+      "source": "fallback",
+      "result": {
+        "repo": "1jehuang/jcode",
+        "summary": "项目简介：The most RAM effiecent harness",
+        "purpose": "根据仓库公开描述，该项目主要围绕：The most RAM effiecent harness",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "Rust"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "Cargo.toml"
+        ]
+      }
+    },
+    "mattpocock/skills|eb26335f5ad16adc027ddac412c255f952099f08|1": {
+      "repo": "mattpocock/skills",
+      "readmeSha": "eb26335f5ad16adc027ddac412c255f952099f08",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.006Z",
+      "source": "fallback",
+      "result": {
+        "repo": "mattpocock/skills",
+        "summary": "项目简介：Skills for Real Engineers. Straight from my .agents dir",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Skills for Real Engineers. Straight from my .agents directory.",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "Shell",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "package.json"
+        ]
+      }
+    },
+    "earendil-works/pi|83a1ff8bad75eb3aade848b09ac8b1978d4264e1|1": {
+      "repo": "earendil-works/pi",
+      "readmeSha": "83a1ff8bad75eb3aade848b09ac8b1978d4264e1",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "earendil-works/pi",
+        "summary": "项目简介：AI agent toolkit: unified LLM API, agent loop, TUI, cod",
+        "purpose": "根据仓库公开描述，该项目主要围绕：AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "TypeScript",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "package.json"
+        ]
+      }
+    },
+    "ruvnet/RuView|c805f32e173d4b59c60f3692c0062f7527a53ea2|1": {
+      "repo": "ruvnet/RuView",
+      "readmeSha": "c805f32e173d4b59c60f3692c0062f7527a53ea2",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "ruvnet/RuView",
+        "summary": "项目简介：π RuView turns commodity WiFi signals into real-time sp",
+        "purpose": "根据仓库公开描述，该项目主要围绕：π RuView turns commodity WiFi signals into real-time spatial intelligence, vital si",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "Rust",
+          "Python"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "pyproject.toml"
+        ]
+      }
+    },
+    "shiyu-coder/Kronos|faffa1578cf0172f6b88f5db8a9b1205668ffef1|1": {
+      "repo": "shiyu-coder/Kronos",
+      "readmeSha": "faffa1578cf0172f6b88f5db8a9b1205668ffef1",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "shiyu-coder/Kronos",
+        "summary": "项目简介：Kronos: A Foundation Model for the Language of Financia",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Kronos: A Foundation Model for the Language of Financial Markets",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "Python"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md"
+        ]
+      }
+    },
+    "Pumpkin-MC/Pumpkin|da2720d3e0d7457089964ffdd1592be6fbbdbde0|1": {
+      "repo": "Pumpkin-MC/Pumpkin",
+      "readmeSha": "da2720d3e0d7457089964ffdd1592be6fbbdbde0",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "Pumpkin-MC/Pumpkin",
+        "summary": "项目简介：Empowering everyone to host fast and efficient Minecraf",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Empowering everyone to host fast and efficient Minecraft servers.",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "Rust"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "Cargo.toml"
+        ]
+      }
+    },
+    "rohitg00/ai-engineering-from-scratch|f358b97874c6a7f835ceac18421c233427637fb3|1": {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "readmeSha": "f358b97874c6a7f835ceac18421c233427637fb3",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "rohitg00/ai-engineering-from-scratch",
+        "summary": "项目简介：Learn it. Build it. Ship it for others.",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Learn it. Build it. Ship it for others.",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "Python"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md"
+        ]
+      }
+    },
+    "HKUDS/DeepTutor|a2fa6c5a647531af11c1e56ab44bc777d7e5812c|1": {
+      "repo": "HKUDS/DeepTutor",
+      "readmeSha": "a2fa6c5a647531af11c1e56ab44bc777d7e5812c",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "HKUDS/DeepTutor",
+        "summary": "项目简介：DeepTutor: Lifelong Personalized Tutoring. https://deep",
+        "purpose": "根据仓库公开描述，该项目主要围绕：DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "Python"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "pyproject.toml"
+        ]
+      }
+    },
+    "MoonshotAI/kimi-code|e3e17adb8c3aeb8a566e7c0024d90a06b384baa5|1": {
+      "repo": "MoonshotAI/kimi-code",
+      "readmeSha": "e3e17adb8c3aeb8a566e7c0024d90a06b384baa5",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "MoonshotAI/kimi-code",
+        "summary": "项目简介：Kimi Code CLI — The Starting Point for Next-Gen Agents",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Kimi Code CLI — The Starting Point for Next-Gen Agents",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "TypeScript",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "package.json"
+        ]
+      }
+    },
+    "schollz/croc|9fc210c1da9fd5a5a13e76bec0f80668e5e25f62|1": {
+      "repo": "schollz/croc",
+      "readmeSha": "9fc210c1da9fd5a5a13e76bec0f80668e5e25f62",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "schollz/croc",
+        "summary": "项目简介：Easily and securely send things from one computer to an",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Easily and securely send things from one computer to another :crocodile: :package:",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "Go"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "go.mod"
+        ]
+      }
+    },
+    "earthtojake/text-to-cad|ee68080861503025dcd4318c37bcf7377e62dcbb|1": {
+      "repo": "earthtojake/text-to-cad",
+      "readmeSha": "ee68080861503025dcd4318c37bcf7377e62dcbb",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "earthtojake/text-to-cad",
+        "summary": "项目简介：A collection of agent skills for CAD, robotics and hard",
+        "purpose": "根据仓库公开描述，该项目主要围绕：A collection of agent skills for CAD, robotics and hardware design",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "JavaScript"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md"
+        ]
+      }
+    },
+    "CoreBunch/Instatic|0964c5f9364d5d921f33a5ad6aac40d1202d98cc|1": {
+      "repo": "CoreBunch/Instatic",
+      "readmeSha": "0964c5f9364d5d921f33a5ad6aac40d1202d98cc",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "CoreBunch/Instatic",
+        "summary": "项目简介：The open-source alternative to Webflow, Framer and Word",
+        "purpose": "根据仓库公开描述，该项目主要围绕：The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted v",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "TypeScript",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "package.json"
+        ]
+      }
+    },
+    "pingdotgg/t3code|0fbbe90ee660da120cba0be1bd4e9811e81c2984|1": {
+      "repo": "pingdotgg/t3code",
+      "readmeSha": "0fbbe90ee660da120cba0be1bd4e9811e81c2984",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "pingdotgg/t3code",
+        "summary": "项目简介：T3 Code is a minimal web GUI for coding agents (current",
+        "purpose": "根据仓库公开描述，该项目主要围绕：T3 Code is a minimal web GUI for coding agents (currently Codex, Claude, Cursor, an",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "TypeScript",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "README.md",
+          "package.json"
+        ]
+      }
+    },
+    "hyprwm/Hyprland|e47a15797831a1aa2a852316216c1a9c3ea8ecd7|1": {
+      "repo": "hyprwm/Hyprland",
+      "readmeSha": "e47a15797831a1aa2a852316216c1a9c3ea8ecd7",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "hyprwm/Hyprland",
+        "summary": "项目简介：Hyprland is an independent, highly customizable, dynami",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor ",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "C++"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md"
+        ]
+      }
+    },
+    "every-app/open-seo|7c9f5e5adb8ac9932f9166f092ba2308b3bb5391|1": {
+      "repo": "every-app/open-seo",
+      "readmeSha": "7c9f5e5adb8ac9932f9166f092ba2308b3bb5391",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "every-app/open-seo",
+        "summary": "项目简介：Open source alternative to Semrush and Ahrefs",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Open source alternative to Semrush and Ahrefs",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "TypeScript",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "package.json"
+        ]
+      }
+    },
+    "Nutlope/hallmark|a615a8007804ee0912c2a94a4d987acdd75c3cbe|1": {
+      "repo": "Nutlope/hallmark",
+      "readmeSha": "a615a8007804ee0912c2a94a4d987acdd75c3cbe",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "Nutlope/hallmark",
+        "summary": "项目简介：Anti-AI-slop design skill for Claude Code, Cursor, and ",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "CSS",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "package.json"
+        ]
+      }
+    },
+    "stablyai/orca|b0ef0741e4b3c8d80df7ab8ae48ec0027789a1b4|1": {
+      "repo": "stablyai/orca",
+      "readmeSha": "b0ef0741e4b3c8d80df7ab8ae48ec0027789a1b4",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "stablyai/orca",
+        "summary": "项目简介：Orca is the ADE for working with a fleet of parallel ag",
+        "purpose": "根据仓库公开描述，该项目主要围绕：Orca is the ADE for working with a fleet of parallel agents. Run any coding agent w",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "TypeScript",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "package.json"
+        ]
+      }
+    },
+    "KnockOutEZ/wigolo|010696944434629252589f4c8c6facb5ef857245|1": {
+      "repo": "KnockOutEZ/wigolo",
+      "readmeSha": "010696944434629252589f4c8c6facb5ef857245",
+      "promptVersion": "1",
+      "analyzedAt": "2026-07-28T10:38:35.007Z",
+      "source": "fallback",
+      "result": {
+        "repo": "KnockOutEZ/wigolo",
+        "summary": "项目简介：The go-to web for your AI coding agent — local-first se",
+        "purpose": "根据仓库公开描述，该项目主要围绕：The go-to web for your AI coding agent — local-first search, fetch, crawl & researc",
+        "coreFeatures": [],
+        "useCases": [
+          "查看项目 README，并按官方文档评估是否适合当前需求。"
+        ],
+        "audience": [],
+        "techStack": [
+          "TypeScript",
+          "Node.js"
+        ],
+        "gettingStarted": "查看仓库 README 获取安装和使用方式。",
+        "caveats": [
+          "当前为无 AI 降级摘要，未进行完整源码审查。"
+        ],
+        "confidence": "low",
+        "evidence": [
+          "GitHub description",
+          "README.md",
+          "package.json"
+        ]
+      }
+    }
+  }
 }
