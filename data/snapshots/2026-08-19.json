@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "date": "2026-08-19",
+  "capturedAt": "2026-08-18T16:03:36.156Z",
+  "source": "GitHub Trending",
+  "repositories": [
+    {
+      "rank": 1,
+      "fullName": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "stars": 108035,
+      "starsGained": 2306
+    },
+    {
+      "rank": 2,
+      "fullName": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "description": "local multi-agent harness",
+      "language": "TypeScript",
+      "stars": 1801,
+      "starsGained": 256
+    },
+    {
+      "rank": 3,
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 2567,
+      "starsGained": 730
+    },
+    {
+      "rank": 4,
+      "fullName": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "stars": 29165,
+      "starsGained": 298
+    },
+    {
+      "rank": 5,
+      "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0",
+      "language": "Python",
+      "stars": 28937,
+      "starsGained": 726
+    },
+    {
+      "rank": 6,
+      "fullName": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "stars": 464050,
+      "starsGained": 1139
+    },
+    {
+      "rank": 7,
+      "fullName": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "stars": 26266,
+      "starsGained": 710
+    },
+    {
+      "rank": 8,
+      "fullName": "agalwood/Motrix",
+      "url": "https://github.com/agalwood/Motrix",
+      "description": "A full-featured download manager.",
+      "language": "TypeScript",
+      "stars": 53513,
+      "starsGained": 607
+    },
+    {
+      "rank": 9,
+      "fullName": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "description": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "language": "PLSQL",
+      "stars": 24215,
+      "starsGained": 204
+    },
+    {
+      "rank": 10,
+      "fullName": "jundot/omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "language": "Python",
+      "stars": 19285,
+      "starsGained": 366
+    }
+  ]
+}
