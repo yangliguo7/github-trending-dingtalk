@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "date": "2026-09-02",
+  "capturedAt": "2026-09-01T18:51:13.453Z",
+  "source": "GitHub Trending",
+  "repositories": [
+    {
+      "rank": 1,
+      "fullName": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "description": "runs anywhere. uses anything",
+      "language": "TypeScript",
+      "stars": 31177,
+      "starsGained": 37
+    },
+    {
+      "rank": 2,
+      "fullName": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "language": "Python",
+      "stars": 44773,
+      "starsGained": 161
+    },
+    {
+      "rank": 3,
+      "fullName": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
+      "language": "TypeScript",
+      "stars": 29275,
+      "starsGained": 3122
+    },
+    {
+      "rank": 4,
+      "fullName": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "description": "Invidious is an alternative front-end to YouTube",
+      "language": "Crystal",
+      "stars": 23707,
+      "starsGained": 583
+    },
+    {
+      "rank": 5,
+      "fullName": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "stars": 56930,
+      "starsGained": 1005
+    },
+    {
+      "rank": 6,
+      "fullName": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "stars": 13580,
+      "starsGained": 745
+    },
+    {
+      "rank": 7,
+      "fullName": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "description": "Animation engine for explanatory math videos",
+      "language": "Python",
+      "stars": 92490,
+      "starsGained": 74
+    },
+    {
+      "rank": 8,
+      "fullName": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "language": "Rust",
+      "stars": 17820,
+      "starsGained": 545
+    },
+    {
+      "rank": 9,
+      "fullName": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "description": "Edit videos with coding agents",
+      "language": "Python",
+      "stars": 22780,
+      "starsGained": 509
+    },
+    {
+      "rank": 10,
+      "fullName": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "stars": 41429,
+      "starsGained": 914
+    }
+  ]
+}
