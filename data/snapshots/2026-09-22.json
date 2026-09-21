@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "date": "2026-09-22",
+  "capturedAt": "2026-09-21T20:07:36.225Z",
+  "source": "GitHub Trending",
+  "repositories": [
+    {
+      "rank": 1,
+      "fullName": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "description": "A framework for building agentic apps",
+      "language": "TypeScript",
+      "stars": 5800,
+      "starsGained": 607
+    },
+    {
+      "rank": 2,
+      "fullName": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
+      "language": "HTML",
+      "stars": 25636,
+      "starsGained": 609
+    },
+    {
+      "rank": 3,
+      "fullName": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "language": "TypeScript",
+      "stars": 17578,
+      "starsGained": 843
+    },
+    {
+      "rank": 4,
+      "fullName": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "language": "Rust",
+      "stars": 7600,
+      "starsGained": 217
+    },
+    {
+      "rank": 5,
+      "fullName": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "stars": 16373,
+      "starsGained": 461
+    },
+    {
+      "rank": 6,
+      "fullName": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "description": "",
+      "language": "Python",
+      "stars": 35754,
+      "starsGained": 425
+    },
+    {
+      "rank": 7,
+      "fullName": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "language": "Rust",
+      "stars": 12302,
+      "starsGained": 69
+    },
+    {
+      "rank": 8,
+      "fullName": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "language": "Python",
+      "stars": 13518,
+      "starsGained": 177
+    },
+    {
+      "rank": 9,
+      "fullName": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "language": "Python",
+      "stars": 8162,
+      "starsGained": 266
+    },
+    {
+      "rank": 10,
+      "fullName": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "description": "科技爱好者周刊，每周五发布",
+      "language": "",
+      "stars": 103885,
+      "starsGained": 221
+    }
+  ]
+}
