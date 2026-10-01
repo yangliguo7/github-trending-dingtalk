@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "date": "2026-10-02",
+  "capturedAt": "2026-10-01T20:32:26.354Z",
+  "source": "GitHub Trending",
+  "repositories": [
+    {
+      "rank": 1,
+      "fullName": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "stars": 150308,
+      "starsGained": 1179
+    },
+    {
+      "rank": 2,
+      "fullName": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "stars": 273764,
+      "starsGained": 888
+    },
+    {
+      "rank": 3,
+      "fullName": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "language": "Rust",
+      "stars": 13932,
+      "starsGained": 2503
+    },
+    {
+      "rank": 4,
+      "fullName": "firebase/firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
+      "language": "C++",
+      "stars": 6844,
+      "starsGained": 112
+    },
+    {
+      "rank": 5,
+      "fullName": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "language": "TypeScript",
+      "stars": 3612,
+      "starsGained": 640
+    },
+    {
+      "rank": 6,
+      "fullName": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "stars": 9299,
+      "starsGained": 157
+    },
+    {
+      "rank": 7,
+      "fullName": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "stars": 293887,
+      "starsGained": 476
+    },
+    {
+      "rank": 8,
+      "fullName": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "language": "TypeScript",
+      "stars": 24740,
+      "starsGained": 357
+    },
+    {
+      "rank": 9,
+      "fullName": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "stars": 55255,
+      "starsGained": 624
+    },
+    {
+      "rank": 10,
+      "fullName": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "stars": 111110,
+      "starsGained": 294
+    }
+  ]
+}
