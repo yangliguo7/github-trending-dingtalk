@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "date": "2026-10-14",
+  "capturedAt": "2026-10-13T20:49:23.620Z",
+  "source": "GitHub Search fallback",
+  "repositories": [
+    {
+      "rank": 1,
+      "fullName": "storytold/photocraft",
+      "url": "https://github.com/storytold/photocraft",
+      "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+      "language": "Rust",
+      "stars": 57444,
+      "starsGained": 0
+    },
+    {
+      "rank": 2,
+      "fullName": "NandhaKishorM/laya",
+      "url": "https://github.com/NandhaKishorM/laya",
+      "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
+      "language": "Python",
+      "stars": 32756,
+      "starsGained": 0
+    },
+    {
+      "rank": 3,
+      "fullName": "Niko1221/Strata",
+      "url": "https://github.com/Niko1221/Strata",
+      "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+      "language": "C++",
+      "stars": 23634,
+      "starsGained": 0
+    },
+    {
+      "rank": 4,
+      "fullName": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "description": "Fastest and cheapest web agent",
+      "language": "Python",
+      "stars": 22817,
+      "starsGained": 0
+    },
+    {
+      "rank": 5,
+      "fullName": "robbietilton/Compositor",
+      "url": "https://github.com/robbietilton/Compositor",
+      "description": "The Photoshop alternative for Mac",
+      "language": "Swift",
+      "stars": 16697,
+      "starsGained": 0
+    },
+    {
+      "rank": 6,
+      "fullName": "openai/math",
+      "url": "https://github.com/openai/math",
+      "description": "",
+      "language": "Lean",
+      "stars": 14654,
+      "starsGained": 0
+    },
+    {
+      "rank": 7,
+      "fullName": "Ebony-Vinyl/dsh-our-free-model",
+      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "language": "JavaScript",
+      "stars": 14010,
+      "starsGained": 0
+    },
+    {
+      "rank": 8,
+      "fullName": "storytold/pdfcraft",
+      "url": "https://github.com/storytold/pdfcraft",
+      "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
+      "language": "Rust",
+      "stars": 12598,
+      "starsGained": 0
+    },
+    {
+      "rank": 9,
+      "fullName": "storytold/filmcraft",
+      "url": "https://github.com/storytold/filmcraft",
+      "description": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
+      "language": "Rust",
+      "stars": 12416,
+      "starsGained": 0
+    },
+    {
+      "rank": 10,
+      "fullName": "storytold/lightcraft",
+      "url": "https://github.com/storytold/lightcraft",
+      "description": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
+      "language": "Rust",
+      "stars": 11930,
+      "starsGained": 0
+    }
+  ]
+}
